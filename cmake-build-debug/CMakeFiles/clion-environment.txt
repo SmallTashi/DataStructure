@@ -1,0 +1,4 @@
+ToolSet: 5.0@D:\Program Filems\ToolBoxexe\apps\CLion
+Options: msvc.arch=x86, version=8.1
+
+Options:
